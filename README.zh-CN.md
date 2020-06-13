@@ -33,7 +33,7 @@ __注意：仅支持Navicat Premium。__
 * Clone `mac` 分支，并编译keygen和patcher
 
   ```bash
-  $ git clone -b mac --single-branch https://github.com/DoubleLabyrinth/navicat-keygen.git
+  $ git clone -b mac --single-branch https://github.com/HardBrick21/navicat-keygen.git
   $ cd navicat-keygen
   $ make all
   ```
